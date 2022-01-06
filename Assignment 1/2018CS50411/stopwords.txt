@@ -1,3 +1,0 @@
-stopword1
-stopword2
-stopword3
